@@ -1,6 +1,6 @@
 # Furniro - Single Page UI
 
-This repository contains the **UI design for a single page** of **Furniro**, an eCommerce platform for selling furniture. The page is responsive and built with modern web technologies.
+This repository contains the **UI design for a single page** of **Furniro**, an eCommerce platform for selling furniture. The page is fully responsive and built with **React**, **Vite**, and **Tailwind CSS**.
 
 ---
 
@@ -24,9 +24,10 @@ The page you're working on includes the following sections:
 
 ## Tech Stack
 
-- **HTML** and **Tailwind CSS** for styling.
-- **React.js** for component-based architecture (optional if you're using React).
-- **React Icons** for social media icons (optional for React-based design).
+- **React.js**: For building a dynamic and interactive user interface.
+- **Vite**: A fast build tool for React.
+- **Tailwind CSS**: For utility-first CSS styling.
+- **React Icons**: For social media icons (Facebook, LinkedIn, Twitter).
 
 ---
 
